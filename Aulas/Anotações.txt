@@ -1,0 +1,61 @@
+Comandos Compiler:
+
+csc: NomeDoArquivo.cs // compila e cria o .exe
+NomeDoArquivo // executa o .exe
+
+
+FormBorderStyle: FixedDialog // Impede de dimensionar o programa
+
+MaximizeBox : False // Desativa a maximização do programa
+
+ReadyOnly :  True // Desativa poder escrever no Campo
+
+FormClosed ( Event ) // Ao fechar o Formulario
+
+form2.ShowDialog(); // Essa função chama a outra aba ( form2 é o nome do metodo )
+
+cb_patinete.Checked // o .Checked é quando a Checkbox é marcada
+
+textmaskformat // ( IncludeLiterals == retorna os caracteres da mascara e oq foi digitado ) -> ( ExcludePromptAndLiterals == retorna apenas o que foi digitado )
+
+MaxSelectionCount // Aumenta os dias que pode ser marcado no MounthCalendar
+
+IsSplitterFixed // bloqueia o redimensionamento dos paineis do SplitedContainer
+
+CellBorderStyle -> Single // ativa as linhas no tablelayoutpanel
+
+TabStop -> False // Quando aperta tab não passa sobre ele
+
+SelectionMode - > FullRowSelect // A linha toda fica selecionada
+
+RowHeadersVisible -> False // desativa coluna da esquerda que ficava em nada dentro
+
+Modifiers // Troca o tipo da variavel de public para private ou protected...
+
+this.ControlBox = false; // remove o X para fechar janela
+
+
+
+startposition: centerscreen // O programa inicia no meio da tela
+
+
+
+
+/* Atalhos das coisas */
+
+btn == button
+lb == label
+cb == checkbox
+dtp == datetimepicker
+ll == linklabel
+lb tbm pode ser == listbox
+lv == listview
+col == coluna
+mtb == maskedtextbox
+tsmi == Tool Strip Menu Item
+
+
+
+Construção de Masks
+
+https://learn.microsoft.com/pt-br/dotnet/api/system.windows.forms.maskedtextbox.mask?view=windowsdesktop-8.0

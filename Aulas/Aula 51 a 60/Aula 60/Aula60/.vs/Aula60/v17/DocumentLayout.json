@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 51 a 60\\Aula 60\\Aula60\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69FF15BD-56C9-473E-8715-E0187C5866FE}|Aula60.csproj|D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 51 a 60\\Aula 60\\Aula60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FF15BD-56C9-473E-8715-E0187C5866FE}|Aula60.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69FF15BD-56C9-473E-8715-E0187C5866FE}|Aula60.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\c#\\aula 51 a 60\\aula 60\\aula60\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{69FF15BD-56C9-473E-8715-E0187C5866FE}|Aula60.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 51 a 60\\Aula 60\\Aula60\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 51 a 60\\Aula 60\\Aula60\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T23:02:55.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 51 a 60\\Aula 60\\Aula60\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 51 a 60\\Aula 60\\Aula60\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T22:22:00.423Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

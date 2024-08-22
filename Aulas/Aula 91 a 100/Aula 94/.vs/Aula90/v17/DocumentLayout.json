@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 91 a 100\\Aula 94\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\c#\\aula 91 a 100\\aula 94\\f_tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|solutionrelative:f_tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\c#\\aula 91 a 100\\aula 94\\f_tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|solutionrelative:f_tabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_TabControl.cs",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 91 a 100\\Aula 94\\F_TabControl.cs",
+              "RelativeDocumentMoniker": "F_TabControl.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 91 a 100\\Aula 94\\F_TabControl.cs",
+              "RelativeToolTip": "F_TabControl.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:43:09.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_TabControl.cs [Design]",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 91 a 100\\Aula 94\\F_TabControl.cs",
+              "RelativeDocumentMoniker": "F_TabControl.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\C#\\Aula 91 a 100\\Aula 94\\F_TabControl.cs [Design]",
+              "RelativeToolTip": "F_TabControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T13:37:21.081Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\CadastroVS\\Cadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB65E92-4905-4EFD-8189-1FB85CAA264F}|Cadastro.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\cadastrovs\\cadastro\\f_loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB65E92-4905-4EFD-8189-1FB85CAA264F}|Cadastro.csproj|solutionrelative:f_loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB65E92-4905-4EFD-8189-1FB85CAA264F}|Cadastro.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\cadastrovs\\cadastro\\f_loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEB65E92-4905-4EFD-8189-1FB85CAA264F}|Cadastro.csproj|solutionrelative:f_loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_LoginUsuario.cs",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\CadastroVS\\Cadastro\\F_LoginUsuario.cs",
+              "RelativeDocumentMoniker": "F_LoginUsuario.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\CadastroVS\\Cadastro\\F_LoginUsuario.cs",
+              "RelativeToolTip": "F_LoginUsuario.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:59:31.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_LoginUsuario.cs [Design]",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\CadastroVS\\Cadastro\\F_LoginUsuario.cs",
+              "RelativeDocumentMoniker": "F_LoginUsuario.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\CadastroVS\\Cadastro\\F_LoginUsuario.cs [Design]",
+              "RelativeToolTip": "F_LoginUsuario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T03:59:29.83Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

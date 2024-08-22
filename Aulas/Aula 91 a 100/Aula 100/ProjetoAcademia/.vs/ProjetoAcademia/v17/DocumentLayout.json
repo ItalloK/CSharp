@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 100\\ProjetoAcademia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3390124D-D3AF-4B66-924D-831868845FEA}|ProjetoAcademia.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\aulas c#\\aula 91 a 100\\aula 100\\projetoacademia\\f_gestaousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3390124D-D3AF-4B66-924D-831868845FEA}|ProjetoAcademia.csproj|solutionrelative:f_gestaousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3390124D-D3AF-4B66-924D-831868845FEA}|ProjetoAcademia.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\aulas c#\\aula 91 a 100\\aula 100\\projetoacademia\\f_gestaousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3390124D-D3AF-4B66-924D-831868845FEA}|ProjetoAcademia.csproj|solutionrelative:f_gestaousuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_GestaoUsuarios.cs",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 100\\ProjetoAcademia\\F_GestaoUsuarios.cs",
+              "RelativeDocumentMoniker": "F_GestaoUsuarios.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 100\\ProjetoAcademia\\F_GestaoUsuarios.cs",
+              "RelativeToolTip": "F_GestaoUsuarios.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:45:52.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_GestaoUsuarios.cs [Design]",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 100\\ProjetoAcademia\\F_GestaoUsuarios.cs",
+              "RelativeDocumentMoniker": "F_GestaoUsuarios.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 100\\ProjetoAcademia\\F_GestaoUsuarios.cs [Design]",
+              "RelativeToolTip": "F_GestaoUsuarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T22:45:48.429Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

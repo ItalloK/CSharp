@@ -1,0 +1,47 @@
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\bin\Debug\Aula62.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\bin\Debug\Aula62.exe
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\bin\Debug\Aula62.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula 80.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_DateTimePicker.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_LinkLabel.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_ListBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_ListView.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_MaskedTextBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_MonthCalendar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_NumericUpDown.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_PictureBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_Principal.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_Checkbox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_CheckedListBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_ComboBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_FilhoCheckBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.F_Veiculos.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula 80.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula 80.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.exe
+D:\Jogos Não Steam\Programação\C#\Aula 71 a 80\Aula 80\obj\Debug\Aula62.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\bin\Debug\Aula62.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\bin\Debug\Aula62.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\bin\Debug\Aula62.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula 80.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_DateTimePicker.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_LinkLabel.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_ListBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_ListView.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_MaskedTextBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_MonthCalendar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_NumericUpDown.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_PictureBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_Principal.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_Checkbox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_CheckedListBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_ComboBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_FilhoCheckBox.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_ProgressBar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.F_Veiculos.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula 80.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula 80.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 81\obj\Debug\Aula62.pdb

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\aulas c#\\aula 91 a 100\\aula 98\\f_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|solutionrelative:f_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\aulas c#\\aula 91 a 100\\aula 98\\f_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|solutionrelative:f_timer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\aulas c#\\aula 91 a 100\\aula 98\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|solutionrelative:f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|d:\\jogos n\u00E3o steam\\programa\u00E7\u00E3o\\aulas c#\\aula 91 a 100\\aula 98\\f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB7BA3EC-185E-4BEF-B816-284860026D31}|Aula90.csproj|solutionrelative:f_principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_Timer.cs",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\F_Timer.cs",
+              "RelativeDocumentMoniker": "F_Timer.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\F_Timer.cs",
+              "RelativeToolTip": "F_Timer.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAEUAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:21:17.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_Timer.cs [Design]",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\F_Timer.cs",
+              "RelativeDocumentMoniker": "F_Timer.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\F_Timer.cs [Design]",
+              "RelativeToolTip": "F_Timer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:08:33.634Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_Principal.cs",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\F_Principal.cs",
+              "RelativeDocumentMoniker": "F_Principal.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\F_Principal.cs",
+              "RelativeToolTip": "F_Principal.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAlwEYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:08:03.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "F_Principal.cs [Design]",
+              "DocumentMoniker": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\F_Principal.cs",
+              "RelativeDocumentMoniker": "F_Principal.cs",
+              "ToolTip": "D:\\Jogos N\u00E3o Steam\\Programa\u00E7\u00E3o\\Aulas C#\\Aula 91 a 100\\Aula 98\\F_Principal.cs [Design]",
+              "RelativeToolTip": "F_Principal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:07:44.318Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

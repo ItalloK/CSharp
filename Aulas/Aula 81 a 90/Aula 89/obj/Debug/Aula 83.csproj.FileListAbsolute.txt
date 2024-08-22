@@ -1,0 +1,70 @@
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\bin\Debug\Aula 83.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\bin\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\bin\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\obj\Debug\Aula 83.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\obj\Debug\Aula_83.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\obj\Debug\Aula_83.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\obj\Debug\Aula 83.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\obj\Debug\Aula 83.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\obj\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 83\obj\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\bin\Debug\Aula 83.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\bin\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\bin\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\obj\Debug\Aula 83.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\obj\Debug\Aula_83.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\obj\Debug\Aula_83.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\obj\Debug\Aula 83.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\obj\Debug\Aula 83.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\obj\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 84\obj\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\bin\Debug\Aula 83.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\bin\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\bin\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\obj\Debug\Aula 83.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\obj\Debug\Aula_83.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\obj\Debug\Aula_83.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\obj\Debug\Aula 83.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\obj\Debug\Aula 83.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\obj\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 85\obj\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\bin\Debug\Aula 83.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\bin\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\bin\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\obj\Debug\Aula 83.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\obj\Debug\Aula_83.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\obj\Debug\Aula_83.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\obj\Debug\Aula 83.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\obj\Debug\Aula 83.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\obj\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 86\obj\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\bin\Debug\Aula 83.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\bin\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\bin\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\obj\Debug\Aula 83.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\obj\Debug\Aula_83.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\obj\Debug\Aula_83.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\obj\Debug\Aula 83.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\obj\Debug\Aula 83.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\obj\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 87\obj\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\bin\Debug\Aula 83.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\bin\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\bin\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\obj\Debug\Aula 83.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\obj\Debug\Aula_83.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\obj\Debug\Aula_83.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\obj\Debug\Aula 83.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\obj\Debug\Aula 83.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\obj\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 88\obj\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\bin\Debug\Aula 83.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\bin\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\bin\Debug\Aula 83.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\obj\Debug\Aula 83.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\obj\Debug\Aula_83.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\obj\Debug\Aula_83.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\obj\Debug\Aula 83.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\obj\Debug\Aula 83.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\obj\Debug\Aula 83.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 89\obj\Debug\Aula 83.pdb

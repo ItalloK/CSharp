@@ -1,0 +1,60 @@
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\EntityFramework.dll
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\System.Data.SQLite.dll
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\EntityFramework.xml
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\System.Data.SQLite.xml
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoA.B909FC18.Up2Date
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_Login.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_NovoUsuario.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_GestaoUsuarios.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_Horarios.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_GestaoProfessores.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_GestaoTurmas.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\itextsharp.dll
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\bin\Debug\itextsharp.xml
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_NovoAluno.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_SelecionarTurma.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 100\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_GestaoAlunos.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe.config
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\ProjetoAcademia.exe
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\ProjetoAcademia.pdb
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\EntityFramework.dll
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\EntityFramework.SqlServer.dll
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\itextsharp.dll
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\System.Data.SQLite.dll
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\EntityFramework.xml
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\EntityFramework.SqlServer.xml
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\itextsharp.xml
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\bin\Debug\System.Data.SQLite.xml
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.Form1.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_GestaoAlunos.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_GestaoProfessores.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_GestaoTurmas.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_GestaoUsuarios.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_Horarios.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_Login.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_NovoAluno.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_NovoUsuario.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.F_SelecionarTurma.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoA.B909FC18.Up2Date
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.exe
+D:\Jogos Não Steam\Programação\Projetos C#\ProjetoAcademia\obj\Debug\ProjetoAcademia.pdb

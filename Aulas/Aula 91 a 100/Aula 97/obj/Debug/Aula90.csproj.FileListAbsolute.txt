@@ -1,0 +1,127 @@
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\bin\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\obj\Debug\Aula90.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\Aula90\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\bin\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\obj\Debug\Aula90.Form1.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 81 a 90\Aula 90\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\bin\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.F_Principal.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.F_TreeView.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 91\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\bin\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.F_Principal.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.F_TreeView.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.F_WebBrowser.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 92\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\bin\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.F_Principal.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.F_SplitContainer.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.F_TreeView.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.F_WebBrowser.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 93\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\bin\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.F_Principal.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.F_SplitContainer.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.F_TabControl.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.F_TreeView.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.F_WebBrowser.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 94\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\bin\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.F_Principal.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.F_SplitContainer.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.F_TabControl.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.F_TableLayoutPanel.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.F_TreeView.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.F_WebBrowser.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\C#\Aula 91 a 100\Aula 95\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\bin\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.F_Principal.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.F_SplitContainer.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.F_TabControl.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.F_TableLayoutPanel.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.F_ToolStripContainer.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.F_TreeView.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.F_WebBrowser.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 96\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.csproj.AssemblyReference.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_Backgroundworker.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_Principal.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_SplitContainer.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_TabControl.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_TableLayoutPanel.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_ToolStripContainer.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_TrackBar.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_TreeView.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.F_WebBrowser.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.Properties.Resources.resources
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.csproj.GenerateResource.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.csproj.CoreCompileInputs.cache
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\obj\Debug\Aula90.pdb
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\bin\Debug\Aula90.exe.config
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\bin\Debug\Aula90.exe
+D:\Jogos Não Steam\Programação\Aulas C#\Aula 91 a 100\Aula 97\bin\Debug\Aula90.pdb
